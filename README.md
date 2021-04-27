@@ -1,10 +1,10 @@
   ### Hello there! I'm Niki 👋🏾
 
 - 🔭 I’m currently working on ... [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
-- 🌱 I’m currently learning ... Ant Design
-- 👯 I’m looking to collaborate on ... Design Projects
+- 🌱 I’m currently learning ... **Python**
+- 👯 I’m looking to collaborate on ... Projects that have to do with travel
 - 🤔 I’m looking for help with ... Coding Challenges
-- 💬 Ask me about ... JavaScript & ReactJS
+- 💬 Ask me about ... My love for travel and how I plan to help shape the industry through tech
 - 📫 How to reach me: ... **niki.m.dossett@gmail.com**
 - ✅ Check out my ... [Resume] 
 - 😄 Pronouns: ... She/Her
