@@ -1,7 +1,5 @@
 ### Hello there! I'm Niki 👋🏾
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
 - 🌱 I’m currently learning ... Ant Design
 - 👯 I’m looking to collaborate on ... Design Projects
