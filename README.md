@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**ndossett/ndossett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! I'm Niki 👋🏾
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
+- 🌱 I’m currently learning ... Ant Design
+- 👯 I’m looking to collaborate on ... Design Projects
+- 🤔 I’m looking for help with ... Coding Challenges
+- 💬 Ask me about ... JavaScript & ReactJS
+- 📫 How to reach me: ... **niki.m.dossett@gmail.com**
+- ✅ Check out my ... [Resume] 
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... I've been to more countries than I have states!
 -->
